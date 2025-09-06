@@ -1,4 +1,4 @@
-# Relatable links
+# Project's links
 
 Project: [CodeSandBox](https://codesandbox.io/p/sandbox/sor-sai-game-y7fqvh)	
 
